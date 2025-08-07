@@ -1,0 +1,69 @@
+_wandb:
+    value:
+        cli_version: 0.21.0
+        e:
+            176ix9786794bu7r35opiw45rvdvicdt:
+                codePath: model.py
+                codePathLocal: model.py
+                cpu_count: 8
+                cpu_count_logical: 12
+                cudaVersion: "12.6"
+                disk:
+                    /:
+                        total: "185240383488"
+                        used: "177522675712"
+                email: mintuadak07@gmail.com
+                executable: C:\Users\Mintu Adak\OneDrive\Desktop\Python\Ayna_Assesment\ayna\Scripts\python.exe
+                gpu: NVIDIA GeForce RTX 3050 Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      cudaCores: 2048
+                      memoryTotal: "4294967296"
+                      name: NVIDIA GeForce RTX 3050 Laptop GPU
+                      uuid: GPU-4e8c6dc0-75e6-36bd-95dd-0c93c4afe578
+                host: MINTU
+                memory:
+                    total: "16831897600"
+                os: Windows-11-10.0.22631-SP0
+                program: C:\Users\Mintu Adak\OneDrive\Desktop\Python\Ayna_Assesment\model.py
+                python: CPython 3.12.4
+                root: C:\Users\Mintu Adak\OneDrive\Desktop\Python\Ayna_Assesment
+                startedAt: "2025-08-05T12:39:26.614606Z"
+                writerId: 176ix9786794bu7r35opiw45rvdvicdt
+        m: []
+        python_version: 3.12.4
+        t:
+            "1":
+                - 1
+                - 5
+                - 41
+                - 53
+            "2":
+                - 1
+                - 5
+                - 41
+                - 53
+            "3":
+                - 13
+                - 16
+            "4": 3.12.4
+            "5": 0.21.0
+            "8":
+                - 3
+            "12": 0.21.0
+            "13": windows-amd64
+architecture:
+    value: Conditional U-Net
+batch_size:
+    value: 8
+dataset:
+    value: Polygon Colorization
+epochs:
+    value: 5
+learning_rate:
+    value: 0.0001
+loss:
+    value: Combined Dice + MSE
+optimizer:
+    value: AdamW

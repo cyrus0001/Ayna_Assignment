@@ -1,0 +1,333 @@
+
+Epoch [1/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.2733
+Batch [5/7], Loss: 0.2644
+Train Loss: 0.2656, Train Dice: 0.8213
+Val Loss: 0.2925, Val Dice: 0.7869
+Learning Rate: 1.00e-04
+New best model saved! Val Loss: 0.2925
+
+Epoch [2/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.2514
+Batch [5/7], Loss: 0.2547
+Train Loss: 0.2504, Train Dice: 0.8631
+Val Loss: 0.2876, Val Dice: 0.7867
+Learning Rate: 1.00e-04
+New best model saved! Val Loss: 0.2876
+
+Epoch [3/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.2459
+Batch [5/7], Loss: 0.2391
+Train Loss: 0.2447, Train Dice: 0.8514
+Val Loss: 0.2728, Val Dice: 0.8577
+Learning Rate: 1.00e-04
+New best model saved! Val Loss: 0.2728
+
+Epoch [4/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.2293
+Batch [5/7], Loss: 0.2262
+Train Loss: 0.2290, Train Dice: 0.8884
+Val Loss: 0.2482, Val Dice: 0.8579
+Learning Rate: 1.00e-04
+New best model saved! Val Loss: 0.2482
+
+Epoch [5/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.2234
+Batch [5/7], Loss: 0.2097
+Train Loss: 0.2173, Train Dice: 0.9099
+Val Loss: 0.2698, Val Dice: 0.7622
+Learning Rate: 1.00e-04
+
+Epoch [6/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.2104
+Batch [5/7], Loss: 0.2042
+Train Loss: 0.2044, Train Dice: 0.9095
+Val Loss: 0.2712, Val Dice: 0.7706
+Learning Rate: 1.00e-04
+
+Epoch [7/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1995
+Batch [5/7], Loss: 0.1904
+Train Loss: 0.1972, Train Dice: 0.9227
+Val Loss: 0.2012, Val Dice: 0.8778
+Learning Rate: 1.00e-04
+New best model saved! Val Loss: 0.2012
+
+Epoch [8/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1900
+Batch [5/7], Loss: 0.2064
+Train Loss: 0.1916, Train Dice: 0.9443
+Val Loss: 0.2135, Val Dice: 0.8760
+Learning Rate: 1.00e-04
+
+Epoch [9/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1866
+Batch [5/7], Loss: 0.1813
+Train Loss: 0.1833, Train Dice: 0.9449
+Val Loss: 0.2341, Val Dice: 0.7979
+Learning Rate: 1.00e-04
+
+Epoch [10/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1807
+Batch [5/7], Loss: 0.1609
+Train Loss: 0.1761, Train Dice: 0.9485
+Val Loss: 0.1723, Val Dice: 0.9383
+Learning Rate: 1.00e-04
+New best model saved! Val Loss: 0.1723
+
+Epoch [11/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1668
+Batch [5/7], Loss: 0.1815
+Train Loss: 0.1731, Train Dice: 0.9422
+Val Loss: 0.2062, Val Dice: 0.8718
+Learning Rate: 1.00e-04
+
+Epoch [12/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1692
+Batch [5/7], Loss: 0.1651
+Train Loss: 0.1655, Train Dice: 0.9501
+Val Loss: 0.1731, Val Dice: 0.9179
+Learning Rate: 1.00e-04
+
+Epoch [13/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1652
+Batch [5/7], Loss: 0.1524
+Train Loss: 0.1586, Train Dice: 0.9570
+Val Loss: 0.1851, Val Dice: 0.8859
+Learning Rate: 1.00e-04
+
+Epoch [14/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1457
+Batch [5/7], Loss: 0.1536
+Train Loss: 0.1546, Train Dice: 0.9607
+Val Loss: 0.1552, Val Dice: 0.9306
+Learning Rate: 1.00e-04
+New best model saved! Val Loss: 0.1552
+
+Epoch [15/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1529
+Batch [5/7], Loss: 0.1620
+Train Loss: 0.1527, Train Dice: 0.9582
+Val Loss: 0.1734, Val Dice: 0.9092
+Learning Rate: 1.00e-04
+
+Epoch [16/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1495
+Batch [5/7], Loss: 0.1460
+Train Loss: 0.1477, Train Dice: 0.9582
+Val Loss: 0.1862, Val Dice: 0.8828
+Learning Rate: 1.00e-04
+
+Epoch [17/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1427
+Batch [5/7], Loss: 0.1544
+Train Loss: 0.1456, Train Dice: 0.9620
+Val Loss: 0.1714, Val Dice: 0.8985
+Learning Rate: 1.00e-04
+
+Epoch [18/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1447
+Batch [5/7], Loss: 0.1499
+Train Loss: 0.1406, Train Dice: 0.9640
+Val Loss: 0.1900, Val Dice: 0.8811
+Learning Rate: 1.00e-04
+
+Epoch [19/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1487
+Batch [5/7], Loss: 0.1363
+Train Loss: 0.1392, Train Dice: 0.9631
+Val Loss: 0.1854, Val Dice: 0.8804
+Learning Rate: 1.00e-04
+
+Epoch [20/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1293
+Batch [5/7], Loss: 0.1416
+Train Loss: 0.1339, Train Dice: 0.9666
+Val Loss: 0.1748, Val Dice: 0.9036
+Learning Rate: 5.00e-05
+
+Epoch [21/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1244
+Batch [5/7], Loss: 0.1415
+Train Loss: 0.1342, Train Dice: 0.9664
+Val Loss: 0.1914, Val Dice: 0.8706
+Learning Rate: 5.00e-05
+
+Epoch [22/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1373
+Batch [5/7], Loss: 0.1347
+Train Loss: 0.1293, Train Dice: 0.9665
+Val Loss: 0.1842, Val Dice: 0.8834
+Learning Rate: 5.00e-05
+
+Epoch [23/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1296
+Batch [5/7], Loss: 0.1184
+Train Loss: 0.1287, Train Dice: 0.9667
+Val Loss: 0.1772, Val Dice: 0.8914
+Learning Rate: 5.00e-05
+
+Epoch [24/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1237
+Batch [5/7], Loss: 0.1276
+Train Loss: 0.1286, Train Dice: 0.9684
+Val Loss: 0.1616, Val Dice: 0.9137
+Learning Rate: 5.00e-05
+
+Epoch [25/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1222
+Batch [5/7], Loss: 0.1225
+Train Loss: 0.1275, Train Dice: 0.9682
+Val Loss: 0.1767, Val Dice: 0.8942
+Learning Rate: 5.00e-05
+
+Epoch [26/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1260
+Batch [5/7], Loss: 0.1274
+Train Loss: 0.1282, Train Dice: 0.9668
+Val Loss: 0.1714, Val Dice: 0.8978
+Learning Rate: 2.50e-05
+
+Epoch [27/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1219
+Batch [5/7], Loss: 0.1224
+Train Loss: 0.1257, Train Dice: 0.9672
+Val Loss: 0.1592, Val Dice: 0.9231
+Learning Rate: 2.50e-05
+
+Epoch [28/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1255
+Batch [5/7], Loss: 0.1186
+Train Loss: 0.1274, Train Dice: 0.9651
+Val Loss: 0.1618, Val Dice: 0.9185
+Learning Rate: 2.50e-05
+
+Epoch [29/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1311
+Batch [5/7], Loss: 0.1195
+Train Loss: 0.1240, Train Dice: 0.9694
+Val Loss: 0.1581, Val Dice: 0.9256
+Learning Rate: 2.50e-05
+
+Epoch [30/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1210
+Batch [5/7], Loss: 0.1234
+Train Loss: 0.1215, Train Dice: 0.9693
+Val Loss: 0.1534, Val Dice: 0.9317
+Learning Rate: 2.50e-05
+New best model saved! Val Loss: 0.1534
+
+Epoch [31/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1344
+Batch [5/7], Loss: 0.1250
+Train Loss: 0.1233, Train Dice: 0.9681
+Val Loss: 0.1546, Val Dice: 0.9313
+Learning Rate: 2.50e-05
+
+Epoch [32/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1219
+Batch [5/7], Loss: 0.1251
+Train Loss: 0.1201, Train Dice: 0.9688
+Val Loss: 0.1523, Val Dice: 0.9325
+Learning Rate: 2.50e-05
+New best model saved! Val Loss: 0.1523
+
+Epoch [33/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1172
+Batch [5/7], Loss: 0.1203
+Train Loss: 0.1209, Train Dice: 0.9688
+Val Loss: 0.1573, Val Dice: 0.9247
+Learning Rate: 2.50e-05
+
+Epoch [34/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1310
+Batch [5/7], Loss: 0.1186
+Train Loss: 0.1206, Train Dice: 0.9677
+Val Loss: 0.1643, Val Dice: 0.9145
+Learning Rate: 2.50e-05
+
+Epoch [35/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1301
+Batch [5/7], Loss: 0.1337
+Train Loss: 0.1226, Train Dice: 0.9700
+Val Loss: 0.1757, Val Dice: 0.9006
+Learning Rate: 2.50e-05
+
+Epoch [36/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1277
+Batch [5/7], Loss: 0.1128
+Train Loss: 0.1201, Train Dice: 0.9686
+Val Loss: 0.1792, Val Dice: 0.8922
+Learning Rate: 2.50e-05
+
+Epoch [37/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1228
+Batch [5/7], Loss: 0.1151
+Train Loss: 0.1198, Train Dice: 0.9692
+Val Loss: 0.1849, Val Dice: 0.8800
+Learning Rate: 2.50e-05
+
+Epoch [38/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1164
+Batch [5/7], Loss: 0.1231
+Train Loss: 0.1195, Train Dice: 0.9709
+Val Loss: 0.1903, Val Dice: 0.8724
+Learning Rate: 1.25e-05
+
+Epoch [39/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1173
+Batch [5/7], Loss: 0.1152
+Train Loss: 0.1163, Train Dice: 0.9703
+Val Loss: 0.1715, Val Dice: 0.9014
+Learning Rate: 1.25e-05
+
+Epoch [40/40]
+--------------------------------------------------
+Batch [0/7], Loss: 0.1153
+Batch [5/7], Loss: 0.1290
+Train Loss: 0.1170, Train Dice: 0.9701
+Val Loss: 0.1677, Val Dice: 0.9077
+Learning Rate: 1.25e-05
+Training completed!
+Best validation loss: 0.1523
+Best validation dice: 0.9383
+Model saved as 'best_conditional_unet.pth'

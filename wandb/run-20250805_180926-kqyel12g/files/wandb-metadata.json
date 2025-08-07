@@ -1,0 +1,36 @@
+{
+  "os": "Windows-11-10.0.22631-SP0",
+  "python": "CPython 3.12.4",
+  "startedAt": "2025-08-05T12:39:26.614606Z",
+  "program": "C:\\Users\\Mintu Adak\\OneDrive\\Desktop\\Python\\Ayna_Assesment\\model.py",
+  "codePath": "model.py",
+  "codePathLocal": "model.py",
+  "email": "mintuadak07@gmail.com",
+  "root": "C:\\Users\\Mintu Adak\\OneDrive\\Desktop\\Python\\Ayna_Assesment",
+  "host": "MINTU",
+  "executable": "C:\\Users\\Mintu Adak\\OneDrive\\Desktop\\Python\\Ayna_Assesment\\ayna\\Scripts\\python.exe",
+  "cpu_count": 8,
+  "cpu_count_logical": 12,
+  "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "185240383488",
+      "used": "177522675712"
+    }
+  },
+  "memory": {
+    "total": "16831897600"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "memoryTotal": "4294967296",
+      "cudaCores": 2048,
+      "architecture": "Ampere",
+      "uuid": "GPU-4e8c6dc0-75e6-36bd-95dd-0c93c4afe578"
+    }
+  ],
+  "cudaVersion": "12.6",
+  "writerId": "176ix9786794bu7r35opiw45rvdvicdt"
+}
